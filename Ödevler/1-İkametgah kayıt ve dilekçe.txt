@@ -1,4 +1,4 @@
-Oturduğunuz mahallenin muhtarı sizden ikametgah bilgilerinin saklamak ve her yeni vatandaş için hazırlanan dilekçe işini otomatize etmek için
+Oturduğunuz mahallenin muhtarı ikametgah bilgilerinin saklamak ve her yeni vatandaş için hazırlanan dilekçe işini otomatize etmek için
 	sizden küçük bir yazılım istedi.
 Yapmanız gerekenler
 - input() fonksiyonu ile kimlik numarası, isim, soyisim, sokak ismi bilgilerini alın ,4 tane input() fonksiyonu kullanabilirsiniz.
