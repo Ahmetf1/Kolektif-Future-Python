@@ -1,6 +1,0 @@
-yapmanız gerekenler
-- print() fonksiyonu ile programı tanıtmak
-- input fonksiyonu ile kenar1 ve kenar2 değerlerinin almak
-	*input() fonksiyonu ile aldığımız veri stringdir. Onu float() yada int() fonksiyonu ile çevirmeyi unutmayın*
-- alanı hesaplamak
-- print() fonksiyonu ile alanı yazdırmak
