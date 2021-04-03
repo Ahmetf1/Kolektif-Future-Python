@@ -66,8 +66,8 @@ Bölme işlemini gerçekleştiren bir program yazın. İşlem sonucunda oluşan 
 
 | INPUT  | OUTPUT |
 | ------ | ------ |
-| 9 2 | quotient =  4  remainder =  1|
-| 156 13  | quotient = 12  remainder = 0 |
-| 84 16 | quotient = 5  remainder = 4  |
+| 9 2 | bölüm =  4  kalan =  1|
+| 156 13  | bölüm = 12  kalan = 0 |
+| 84 16 | bölüm = 5  kalan = 4  |
 
 <br>
